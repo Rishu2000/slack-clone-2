@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from "styled-components"
 import AddCircleOutlineIcon from '@material-ui/icons/AddCircleOutline';
-import {sidebarItemsData} from "../data/SidebarData"
+import {sidebarItemsData} from "../data/SidebarData";
 import AddIcon from '@material-ui/icons/Add';
 import {channelItemsData} from "../data/ChannelData"
 
